@@ -1,3 +1,3 @@
 git master
 Creating a new branch is quick.
-dev.
+Git is a free software.
